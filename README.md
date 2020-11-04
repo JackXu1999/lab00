@@ -4,7 +4,7 @@
 
 ppmcvt – convert ppm files
 
-ppmcvt [bg:i:r:smt:n:o:] file
+ppmcvt [bg:i:r:smt:n: o:] file
 
 Description
 ppmcvt manipulates input Portable Pixel Map (PPM) files and outputs a new image based
